@@ -1,3 +1,49 @@
+## Table of Contents
+* [Process Rundown](#process-rundown)
+* [Stage 01 : Acquisition of bacteria](#stage-01--acquisition-of-bacteria)
+  * [a. Soil sample collection](#a--soil-sample-collection)
+    * [Protocol](#protocol)
+    * [Interface](#interface)
+    * [Gamification](#gamification)
+    * [Issues](#issues)
+  * [b. Dilution process: preparation of the sample](#b--dilution-process-preparation-of-the-sample)
+    * [Protocol](#protocol-1)
+    * [Interface](#interface-1)
+    * [Gamification](#gamification-1)
+    * [Issues](#issues-1)
+  * [c. Agar plates inoculation](#c--agar-plates-inoculation)
+    * [Protocol](#protocol-2)
+    * [Interface](#interface-2)
+    * [Gamification](#gamification-2)
+    * [Issues](#issues-2)
+  * [d. Incubating and Logging Soil Sample plate](#d--incubating-and-logging-soil-sample-plate)
+    * [Protocol](#protocol-3)
+    * [Interface](#interface-3)
+    * [Gamification](#gamification-3)
+    * [Issues](#issues-3)
+* [Stage 02: Identification and testing of antibiotics](#stage-02-identification-and-testing-of-antibiotics)
+  * [e. Identification of actinomycetes](#e--identification-of-actinomycetes)
+    * [Protocol](#protocol-4)
+    * [Interface](#interface-4)
+    * [Gamification](#gamification-4)
+    * [Issues](#issues-4)
+  * [f. Testing Actinomycetes on E.coli plate](#f--testing-actinomycetes-on-ecoli-plate)
+    * [Protocol](#protocol-5)
+    * [Interface](#interface-5)
+    * [Gamification](#gamification-5)
+    * [Issues](#issues-5)
+  * [g. Incubating and Logging E.coli plate](#g-incubating-and-logging-ecoli-plate)
+    * [Protocol](#protocol-6)
+    * [Interface](#interface-6)
+    * [Gamification](#gamification-6)
+    * [Issues](#issues-6)
+* [Stage 03: Identifying potential candidates for DNA sequencing](#stage-03-identifying-potential-candidates-for-dna-sequencing)
+  * [Protocol](#protocol-7)
+  * [Interface](#interface-7)
+  * [Gamification](#gamification-7)
+  * [Issues](#issues-7)
+
+<a name="rundown" />
 ## Process Rundown ##
 Stages/activities you need to perform over a mobile app
 
@@ -93,6 +139,8 @@ Stages/activities you need to perform over a mobile app
 #### Issues
 > *	People don’t do it right, how to scare/motivate them?
 d.	Incubating and Logging Soil Sample plate
+
+### d.  Incubating and Logging Soil Sample plate
 
 #### Protocol
 > *	Decide whether to use an incubator or not
