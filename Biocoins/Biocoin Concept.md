@@ -1,4 +1,5 @@
-= Biocoins
+Biocoins
+==========
 
 Biocoin is envisioned to conceive an objective measure of a current valuation of antibiotic potential of the soil samples biostrikers are harvesting. The concept emulates Solarcoin, which pegs a digital currency against modern valuation of generated solar energy. Biocoin is also a kind of gamification point system to incentivize participation in Biostrike.
 
