@@ -1,4 +1,4 @@
-Biocoins
+= Biocoins
 
 Biocoin is envisioned to conceive an objective measure of a current valuation of antibiotic potential of the soil samples biostrikers are harvesting. The concept emulates Solarcoin, which pegs a digital currency against modern valuation of generated solar energy. Biocoin is also a kind of gamification point system to incentivize participation in Biostrike.
 
@@ -8,7 +8,7 @@ The running value of Biocoin rests on a collective's input of existing currencie
 
 The mechanism comes full circle as we explain that Biocoin is not a cryptocurrency yet still a digital currency that allows for a current identifier of genetic sequencing, which may take time to fully unravel. Unlike Bitcoin, there is no mining to complete hash sequences but "mining" to unravel unknown genetic sequences. Rather than employ precious computing power to mine something of arbitrary value, the "mining" here actually accomplishes something that creates new and valuable knowledge.
 
-How it works
+# How it works
 
 Before the genetic sequences are fully unraveled, a Biocoin identifier with a nominal value is tagged to these yet-to-be-unraveled genetic sequences. Biocoin is also awarded to people who contribute computing power to the Biostrike program, which like SETILive allows a voluntary collective to contribute towards a crowdsourcing venture of finding extraterrestrial intelligence. Again a nominal value is attached to these efforts. When you do discover something of clear antibiotic potential, your nominal Biocoin is boosted to an order commensurate to the investor pool set aside for sequences that will help humanity.
 
@@ -16,7 +16,7 @@ Investors to the Bitcoin project are able to delineate how much real world money
 
 It is by default suggested that 20% of Biostrike funding goes towards harvesting and mechanical turk tasks, while 80% premium awarded to those high impact sequences.
 
-Distributed Point system
+# Distributed Point system
 
 involvement with betting on certain petri dishes using the digital point identifiers - solar energy can be consolidated but not soil samples
 
