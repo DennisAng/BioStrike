@@ -16,12 +16,3 @@ Before the genetic sequences are fully unraveled, a Biocoin identifier with a no
 Investors to the Bitcoin project are able to delineate how much real world money goes towards definitive antibiotic discovery and how much goes towards the necessary but laborious task of harvesting and "mining" of genetic sequences in the Biostrike repository.
 
 It is by default suggested that 20% of Biostrike funding goes towards harvesting and mechanical turk tasks, while 80% premium awarded to those high impact sequences.
-
-# Distributed Point system
-
-Involvement with betting on certain petri dishes using the digital point identifiers - solar energy can be consolidated but not soil samples
-
-some elements of cryptocurrency is still being retained
-
-tracking who contributes what and to whom
-tracking of biocoin transactions
