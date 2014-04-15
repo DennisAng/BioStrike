@@ -7,7 +7,7 @@ There are differences between Biocoin and Solarcoin. An individual may readily a
 
 The running value of Biocoin rests on a collective's input of existing currencies into the project. Individual investors, corporations and governments are able to contribute to the central pool of Biocoin fund as a proxy measure of current demand for new antibiotics. If so, why the need for a digital currency in the first place?
 
-The mechanism comes full circle as we explain that Biocoin is not a cryptocurrency yet still a digital currency that allows for a current identifier of genetic sequencing, which may take time to fully unravel. Unlike Bitcoin, there is no mining to complete hash sequences but "mining" to unravel unknown genetic sequences. Rather than employ precious computing power to mine something of arbitrary value, the "mining" here actually accomplishes something that creates new and valuable knowledge.
+The mechanism comes full circle as we explain that Biocoin is not a cryptocurrency yet still a digital currency that allows for a current identifier of genetic sequencing, which may take time to fully unravel. Unlike Bitcoin, there is no mining to complete hash sequences but "mining" to unravel unknown genetic sequences. Rather than employ precious computing power to mine something of arbitrary value, the "mining" here actually accomplishes something that creates new and valuable knowledge. By this regard, an API has to be created to facilitate the automation of gene sequencing through the potential brute force of crowdsourced computing power. 
 
 # How it works
 
