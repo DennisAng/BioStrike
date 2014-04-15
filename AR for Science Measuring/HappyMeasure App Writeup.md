@@ -22,12 +22,13 @@ US Letter: https://www.google.com/url?q=http://tinyurl.com/HappyMeasure-US-Lette
 
 PROS & CONS using Happy Measure for an open science project
 
-PROS
+# PROS
 - Ability to measure objects accurately
 - Users are able to share their 3D models instantly on the app
 - Useful more for standardising set up process eg. Size of incubation tank; size of test tubes, etc.
 
 CONS
+-------
 - Not very useful in standardising photo taking eg. length between camera and petridish; angle of photo; clear view of inhibition sites 
 - Camera function not clear enough to take a petridish photo and show inhibition sites (which may not be obious)
 
