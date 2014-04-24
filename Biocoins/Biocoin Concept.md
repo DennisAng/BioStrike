@@ -1,5 +1,5 @@
-(https://raw.githubusercontent.com/DennisAng/BioStrike/master/Biocoins/problem.png)
-(https://raw.githubusercontent.com/DennisAng/BioStrike/master/Biocoins/solution.png)
+![Problem](https://raw.githubusercontent.com/DennisAng/BioStrike/master/Biocoins/problem.png)
+![Solution](https://raw.githubusercontent.com/DennisAng/BioStrike/master/Biocoins/solution.png)
 
 Biocoins
 ==========
@@ -17,7 +17,7 @@ If so, why the need for a digital currency in the first place?
 
 The mechanism comes full circle as we explain that Biocoin is not a cryptocurrency yet still a digital currency that allows for a current identifier of genetic sequencing, which may take time to fully unravel. Unlike Bitcoin, there is no mining to complete hash sequences but "mining" to unravel unknown genetic sequences. Rather than employ precious computing power to mine something of arbitrary value, the "mining" here actually accomplishes something that creates new and valuable knowledge. By this regard, an API has to be created to facilitate the automation of gene sequencing through the potential brute force of crowdsourced computing power. 
 
-(https://raw.githubusercontent.com/DennisAng/BioStrike/master/Biocoins/biocoinschema.png)
+![Visual](https://raw.githubusercontent.com/DennisAng/BioStrike/master/Biocoins/biocoinschema.png)
 
 # How it works
 
